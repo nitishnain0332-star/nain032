@@ -1,4 +1,4 @@
 print(" nain")
 print(4)
-nain
-jaat
+print("nain")
+print("jaat")
